@@ -1,5 +1,5 @@
 # About Me
- I'm a Certified Tester of ISTQB-FL, 
+ I'm a Certified Tester of ISTQB-FL, I'm 
 # Tools
 * MS SQL,
 * Postman,
