@@ -1,5 +1,5 @@
 # About Me
- I'm a Certified Tester of ISTQB-FL, I'm 
+ I am a beginner manual tester with an ISTQB - FL certificate who wants to constantly develop and expand my skills. I am characterized by conscientiousness, meticulousness, accuracy, and pursuit of the set goal. I have developed communication skills and I like working in a team. My professional future is related to testing in IT, for this purpose I completed the Manual Tester course and started learning Python.
 # Tools
 * MS SQL,
 * Postman,
