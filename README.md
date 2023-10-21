@@ -15,7 +15,6 @@
 * Maraton GOIT - HTML/CSS [GOIT](https://w.goit.global/pl/)
 # Blogs Read
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
-* 
 # Webinars, Meetups
 # My test documentation
 * Test Plan
@@ -23,3 +22,4 @@
 * Test scenarios
 * Bug reports
 # Projects
+* [Portfolio](https://drive.google.com/drive/folders/12rfZi9_pmcFXGgvCyEjaxiSaC8i4ETrB?usp=sharing)
